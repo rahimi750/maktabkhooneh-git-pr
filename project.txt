@@ -1,4 +1,4 @@
 GitHub Pull Request Demo
-Version 1.0
+Version 1.1
 This change was added via a Pull Request.
-This Line For Updated Pull Request.
+This line was updated to improve the project documentation and demonstrate the Pull Request review process.
